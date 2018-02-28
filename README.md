@@ -9,7 +9,9 @@ cd shikra/
 Run:
 <pre>
 chmod +x RunMetagenomicAnalysis.sh
+chmod +x RunProfiles.sh
 ./RunMetagenomicAnalysis.sh
+./RunProfiles.sh
 </pre>
 
 Dependencies:
@@ -17,6 +19,7 @@ Dependencies:
 FALCON - https://github.com/pratas/falcon
 GULL - https://github.com/pratas/GULL
 Goose - https://github.com/pratas/goose
+GeCo - https://github.com/pratas/geco
 </pre>
 NOTE: these programs are installed and used automatically.
 
