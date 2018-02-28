@@ -1,5 +1,5 @@
 
-<b>shikra</b>: auxiliar programs to the analysis of the metagenomic composition of sedimentary ancient DNA.
+<b>SHIKRA</b>: auxiliar programs to the analysis of the metagenomic composition of sedimentary ancient DNA.
 
 Download and installation:
 <pre>
