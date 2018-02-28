@@ -22,7 +22,7 @@ if [[ "$GET_GOOSE" -eq "1" ]]; then
   make
   cd ../../
   cp goose/src/goose-* .
-  cp goose/scripts/*.sh .
+  cp goose/scripts/Download*.pl .
 fi
 #==============================================================================
 # GET FALCON
